@@ -30,7 +30,7 @@ Patreon — это интерактивная страница, на кото�
 ## Установка и запуск проекта:
 Клонировать репозиторий:
 
-    git clone https://github.com/maksimyou/Panteon.git
+    git clone https://github.com/hungry-guerilla/Panteon-master.git
 
 Установить зависимости:
 
@@ -62,9 +62,4 @@ Patreon — это интерактивная страница, на кото�
 ## Скриншот:
 <details><summary><b>Развернуть</b></summary>
 
-![Panteon](https://user-images.githubusercontent.com/93248333/214223755-8bd6dbfb-fb7e-4e8d-a452-9ac349da4d89.png)(https://maksimyou.github.io/Panteon/)
-
-</details>
-
-## Ссылка на сайт:
-https://maksimyou.github.io/Panteon/
+![Panteon](https://user-images.githubusercontent.com/93248333/214223755-8bd6dbfb-fb7e-4e8d-a452-9ac349da4d89.png)(https://hungry-guerilla.github.io/Panteon-master)
